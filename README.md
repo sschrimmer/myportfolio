@@ -4,9 +4,9 @@
 
 This is a website that contains some of my work that I like to showcase to show to potential employers/clients.
 
-[link to project](
+[link to project]
 
-
+![](./images/Portfolioscreenshot.png)
 
 
 ## Installation
